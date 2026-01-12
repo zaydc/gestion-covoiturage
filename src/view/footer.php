@@ -1,3 +1,3 @@
 <footer>
-    <p>Site réalisé par Zayd Crombez - BUT Informatique</p>
+    <p>Site réalisé par Zayd - BUT Informatique</p>
 </footer>
